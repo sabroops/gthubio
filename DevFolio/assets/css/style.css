@@ -1481,3 +1481,10 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
