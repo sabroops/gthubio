@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+LIVE at sabroops.github.io
 
-Template Name: DevFolio
-Template URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+need to create individual portfolio pages!
